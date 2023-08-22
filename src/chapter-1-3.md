@@ -1,5 +1,4 @@
-Importance of AI in Mental Health Treatment
-=========================================================
+
 
 Mental illness is a significant global health concern, affecting millions of individuals worldwide. However, many barriers exist that prevent individuals from receiving the care they need, such as stigma, limited access to mental health services, and a shortage of trained professionals.
 

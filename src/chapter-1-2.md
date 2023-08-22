@@ -1,5 +1,4 @@
-Background information on mental health treatment and therapy
-===========================================================================
+
 
 Mental health treatment and therapy have been an important aspect of healthcare for centuries. The understanding and approach to mental illness and its treatment have evolved over time. In this chapter, we will provide background information on mental health treatment and therapy.
 

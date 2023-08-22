@@ -1,5 +1,4 @@
-Benefits of Mental Health Treatment
-=====================================================================================
+
 
 Mental health treatment can provide significant benefits to individuals struggling with mental illness. In this chapter, we will explore the benefits of mental health treatment.
 

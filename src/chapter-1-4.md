@@ -1,5 +1,4 @@
-Objectives of the Book
-====================================
+
 
 The objective of this book is to explore the potential for AI, specifically ChatGPT, in mental health treatment. Mental illness affects millions of individuals worldwide, yet many do not receive the care they need due to barriers such as stigma, limited access, and a shortage of trained professionals.
 

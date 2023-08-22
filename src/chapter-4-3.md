@@ -1,5 +1,4 @@
-Advantages of Using ChatGPT in Mental Health Treatment
-==========================================================================================
+
 
 ChatGPT is a cutting-edge technology that has the potential to revolutionize mental health treatment. In this chapter, we will explore the advantages of using ChatGPT in mental health treatment.
 

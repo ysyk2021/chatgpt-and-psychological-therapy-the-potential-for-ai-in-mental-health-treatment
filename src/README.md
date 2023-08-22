@@ -1,4 +1,4 @@
-# Introduction
+
 
 Mental health treatment has traditionally relied on face-to-face interactions between therapists and patients. However, with the rise of artificial intelligence (AI) technology, there is increasing potential for AI to be used in mental health treatment and therapy.
 

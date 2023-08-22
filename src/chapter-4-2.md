@@ -1,5 +1,4 @@
-The Features of ChatGPT
-===========================================================
+
 
 ChatGPT is an advanced artificial intelligence technology that has the potential to revolutionize mental health treatment. In this chapter, we will explore the features of ChatGPT and how they can be used in psychological therapy.
 

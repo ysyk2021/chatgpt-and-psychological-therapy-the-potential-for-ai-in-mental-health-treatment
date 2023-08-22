@@ -1,5 +1,4 @@
-Case Studies on ChatGPT's Therapeutic Features
-===========================================================================================================
+
 
 ChatGPT has the potential to be used as a therapeutic tool in psychological therapy. In this chapter, we will explore case studies that demonstrate how ChatGPT can be used to support individuals struggling with mental health issues.
 

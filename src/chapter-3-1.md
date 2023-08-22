@@ -1,5 +1,4 @@
-An Overview of Technology in Mental Health Treatment
-==================================================================================================================
+
 
 Technology has played an increasingly important role in mental health treatment over the past few decades. In this chapter, we will provide an overview of the different types of technology used in mental health treatment.
 

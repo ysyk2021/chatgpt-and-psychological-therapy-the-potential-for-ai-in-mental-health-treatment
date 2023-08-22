@@ -1,5 +1,4 @@
-Different Types of Mental Health Treatments
-=============================================================================================
+
 
 Mental health treatment encompasses a range of different therapies and treatments. In this chapter, we will explore the different types of mental health treatments available.
 

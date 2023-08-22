@@ -1,5 +1,4 @@
-Chapter 5: Implementation of ChatGPT in Mental Health Treatment
-===============================================================
+
 
 The implementation of ChatGPT in mental health treatment requires careful planning and consideration to ensure that the technology is used effectively and ethically. In this chapter, we will discuss the key considerations for implementing ChatGPT in mental health treatment.
 

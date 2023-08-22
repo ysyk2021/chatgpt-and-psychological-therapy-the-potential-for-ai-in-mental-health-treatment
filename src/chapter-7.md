@@ -1,5 +1,4 @@
-Chapter 6: Ethical Considerations in the Use of ChatGPT in Mental Health Treatment
-==================================================================================
+
 
 The use of ChatGPT in mental health treatment raises important ethical considerations related to privacy, confidentiality, informed consent, user autonomy, and the implications for mental health professionals. In this chapter, we will discuss these concerns and explore best practices for using ChatGPT ethically and effectively.
 

@@ -1,5 +1,4 @@
-What is Mental Health Treatment?
-==================================================================================
+
 
 Mental health treatment refers to the various therapies and treatments used to address mental illness. Mental illness encompasses a range of conditions that affect an individual's thinking, mood, and behavior.
 

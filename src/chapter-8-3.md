@@ -1,5 +1,4 @@
-Limitations and Future Research Directions
-======================================================
+
 
 While ChatGPT shows great potential in revolutionizing mental health treatment, there are limitations to its use and areas for future research. In this chapter, we will explore these limitations and future research directions.
 
