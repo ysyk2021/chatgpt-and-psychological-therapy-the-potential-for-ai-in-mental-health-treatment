@@ -1,5 +1,4 @@
 
-
 Mental health treatment refers to the various therapies and treatments used to address mental illness. Mental illness encompasses a range of conditions that affect an individual's thinking, mood, and behavior.
 
 Mental health treatment can involve different approaches, including psychotherapy, medication, cognitive-behavioral therapy (CBT), psychodynamic therapy, dialectical behavior therapy (DBT), and alternative therapies such as art therapy and music therapy.

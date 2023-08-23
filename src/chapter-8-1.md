@@ -1,5 +1,4 @@
 
-
 In this book, we have explored the potential for ChatGPT and other AI-powered tools to improve mental health treatment. We have discussed the current state of mental health treatment, the importance of AI in mental health treatment, and the ethical considerations and limitations of using ChatGPT in mental health treatment.
 
 Key points covered in this book include:

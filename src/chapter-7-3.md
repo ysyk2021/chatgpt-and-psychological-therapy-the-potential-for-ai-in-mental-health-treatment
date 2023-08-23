@@ -1,5 +1,4 @@
 
-
 As with any technology used in mental health treatment, there are important ethical considerations to take into account when using ChatGPT. One key consideration is the need for supervision and monitoring of ChatGPT.
 
 The Importance of Supervision and Monitoring

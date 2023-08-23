@@ -1,5 +1,4 @@
 
-
 The use of ChatGPT in mental health treatment raises important ethical considerations related to informed consent and user autonomy. In this chapter, we will discuss these concerns and explore best practices for protecting patient autonomy when using ChatGPT.
 
 Informed Consent

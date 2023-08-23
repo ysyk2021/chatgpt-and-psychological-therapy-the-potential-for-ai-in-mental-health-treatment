@@ -1,5 +1,4 @@
 
-
 ChatGPT is an AI-powered chatbot that has the potential to revolutionize mental health treatment by providing personalized recommendations and assistance to patients. In this chapter, we will explore what ChatGPT is, its features, advantages of using it in mental health treatment, and case studies on its use in this field.
 
 What is ChatGPT?

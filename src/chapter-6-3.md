@@ -1,5 +1,4 @@
 
-
 As the potential for ChatGPT in mental health treatment becomes increasingly recognized, it is important to understand how to effectively implement this technology. In this chapter, we will explore the process of training ChatGPT for mental health treatment and managing conversations with patients.
 
 Training ChatGPT for Mental Health Treatment

@@ -1,5 +1,4 @@
 
-
 ChatGPT is an AI-powered tool that can be used in psychological therapy to provide personalized recommendations and assistance to patients. In order to understand how ChatGPT works, it is important to first understand the basics of natural language processing (NLP), which is the technology behind ChatGPT.
 
 Natural Language Processing (NLP)

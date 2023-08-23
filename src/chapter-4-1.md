@@ -1,5 +1,4 @@
 
-
 ChatGPT is an AI-powered chatbot that uses natural language processing (NLP) to analyze and respond to text-based conversations. It was developed by OpenAI, a research company that focuses on advancing artificial intelligence in a responsible and ethical manner.
 
 ChatGPT is trained on a massive dataset of conversations, allowing it to understand natural language and provide accurate and helpful responses to patients. The chatbot uses machine learning algorithms to improve its responses over time, meaning that it can learn from previous conversations and provide more personalized recommendations to patients.

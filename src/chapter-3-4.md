@@ -1,5 +1,4 @@
 
-
 Technology has the potential to transform mental health treatment by improving access, reducing costs, and enhancing patient outcomes. In this chapter, we will explore the role of technology in mental health treatment and the future of technology in this field.
 
 The Role of Technology in Mental Health Treatment

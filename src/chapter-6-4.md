@@ -1,5 +1,4 @@
 
-
 The implementation of ChatGPT in mental health treatment requires careful evaluation of its performance and effectiveness. In this chapter, we will explore how ChatGPT's performance and effectiveness can be evaluated.
 
 Performance Metrics

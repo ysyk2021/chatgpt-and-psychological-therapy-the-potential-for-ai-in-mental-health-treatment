@@ -1,5 +1,4 @@
 
-
 Mental health treatment and therapy have been an important aspect of healthcare for centuries. The understanding and approach to mental illness and its treatment have evolved over time. In this chapter, we will provide background information on mental health treatment and therapy.
 
 Throughout history, mental illness was often misunderstood and stigmatized. People with mental illness were often viewed as dangerous or possessed by evil spirits and were subjected to cruel and inhumane treatments such as imprisonment, torture, and exorcism.

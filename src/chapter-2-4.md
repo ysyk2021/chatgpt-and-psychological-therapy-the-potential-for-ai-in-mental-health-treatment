@@ -1,5 +1,4 @@
 
-
 Mental health treatment is a complex and evolving field that faces many challenges. In this chapter, we will explore some of the challenges faced by mental health treatment providers.
 
 Stigma

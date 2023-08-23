@@ -1,5 +1,4 @@
 
-
 Mental health treatment is a broad term that encompasses a range of therapies and treatments designed to address mental illness. In this chapter, we will provide an overview of mental health treatment, its different types, benefits, and challenges.
 
 What is Mental Health Treatment?

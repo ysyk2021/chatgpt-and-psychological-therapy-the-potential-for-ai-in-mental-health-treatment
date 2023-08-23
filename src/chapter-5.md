@@ -1,5 +1,4 @@
 
-
 ChatGPT is a powerful tool that has the potential to improve mental health treatment by providing personalized recommendations and assistance to patients. In this chapter, we will explore how ChatGPT can be used in psychological therapy.
 
 How ChatGPT Works

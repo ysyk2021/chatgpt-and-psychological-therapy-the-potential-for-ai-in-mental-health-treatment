@@ -1,5 +1,4 @@
 
-
 ChatGPT uses data analytics and natural language processing to provide personalized therapy to individuals struggling with mental health issues. In this chapter, we will explore how ChatGPT uses data to provide therapy.
 
 Analyzing Previous Conversations

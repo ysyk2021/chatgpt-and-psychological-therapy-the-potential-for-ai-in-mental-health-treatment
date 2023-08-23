@@ -1,5 +1,4 @@
 
-
 Technology has the potential to transform mental health treatment by improving access, reducing costs, and enhancing patient outcomes. In this chapter, we will provide an overview of technology in mental health treatment and explore its advantages, challenges, and future implications.
 
 An Overview of Technology in Mental Health Treatment

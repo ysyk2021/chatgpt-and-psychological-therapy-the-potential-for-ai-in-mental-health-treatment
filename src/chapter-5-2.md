@@ -1,5 +1,4 @@
 
-
 ChatGPT is a powerful tool that can be used in psychological therapy to provide personalized recommendations and assistance to patients. In order to provide effective and individualized care, ChatGPT uses several personalization techniques.
 
 Analyzing Previous Conversations

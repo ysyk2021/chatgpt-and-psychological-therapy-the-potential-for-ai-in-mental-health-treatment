@@ -1,5 +1,4 @@
 
-
 The potential for ChatGPT in mental health treatment is significant, offering personalized recommendations and assistance to patients in a cost-effective and accessible manner. However, it is important to consider the implications of this technology on mental health treatment.
 
 Advantages of ChatGPT in Mental Health Treatment
